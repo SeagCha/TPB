@@ -10,7 +10,7 @@ import csv
 from datetime import datetime, timedelta
 import random
 
-token = "5726960663:AAGZ8n8cB2HPERhRQJFOILML_ySv60Lmg-8"
+token = 
 
 bot = telebot.TeleBot(token)
 
